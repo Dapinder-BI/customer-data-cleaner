@@ -26,3 +26,4 @@ print(df)
 
 print("\nMissing values:")
 print(df.isnull().sum())
+print("\nTotal customers after cleaning:", len(df))
