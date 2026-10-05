@@ -1,0 +1,10 @@
+customer_id,name,city,age,email
+101,John Smith,Toronto,32.0,john@email.com
+102,Sarah Lee,Toronto,28.0,sarah@email.com
+103,Mike Brown,Brampton,32.0,mike@email.com
+104,Emma Wilson,Mississauga,35.0,unknown
+105,Raj Singh,Brampton,41.0,raj@email.com
+106,Lisa Chen,Toronto,29.0,lisa@email.com
+107,David Miller,Mississauga,38.0,david@email.com
+108,Aman Patel,Brampton,32.0,aman@email.com
+109,Sophia Martin,Toronto,26.0,sophia@email.com
